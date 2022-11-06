@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #2b2d42;
+}
+h1#title{
+    font-family: 'Kolker Brush', cursive;
+    font-size: 7rem;
+    color:#d90429;
+}
+div#table1>table>thead{
+    background-color: #ef233c;
+    color: white;
+    font-family:'Macondo', cursive;
+    font-size:1.2rem;
+
+}
+table>thead{
+    border-color: #ef233c;
+    background-color: #ffffff;
+    border-style:groove;
+
+}
+
+table>tbody>tr{
+    border-color: #ef233c;
+    background-color: #ffffff;
+   
+}
+
+.highlight {
+    background-color: yellow;
+  }
+
+input#myinput{
+    display: flex;
+    justify-items: right;
+    align-items:flex-end;
+}
